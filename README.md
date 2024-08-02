@@ -10,6 +10,10 @@ npm run tauri dev
 npm run tauri build
 ```
 
+## 2024-08-02
+
+
+
 ## 2024-08-01
 
 ### DONE:
@@ -30,6 +34,7 @@ styling:
 - tiled windows
 - autocomplete + coloring + colored history
 - gradient to fade out old command history
+---
 
 ### TODO:
 ---
@@ -47,3 +52,4 @@ rendering:
 mapping:
 - generate and show a map of all nodes (in current node? in popup? as image?)
 - show path to particular node name
+---
